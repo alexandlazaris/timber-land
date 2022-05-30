@@ -1,6 +1,6 @@
 # timber-land
 A memory dump + training ground for all my wood working learning.
 
-* Using https://docusaurus.io/ for static site generation
+* using https://docusaurus.io/ for static site generation
 * node v14
-* 
+* run `yarn install` within `./my-website` followed by `yarn star` to begin the local server
