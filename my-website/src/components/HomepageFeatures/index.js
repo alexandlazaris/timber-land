@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'General woodworking',
+    Svg: require('@site/static/img/static-wood.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Timberland is my go-to place for woodworking beginner knowledge and general skills. Topics range 
+        from types of timber to tool tips.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Building stuff',
+    Svg: require('@site/static/img/static-construction.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Includes guides + tutorials for common woodworking projects to ensure
+        you're not left alone whilst building your dream creations.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Fixing stuff',
+    Svg: require('@site/static/img/static-screw-driver.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Filling screw holes, re-attaching (timber) limbs or patching up marks, there'll be plenty of helpful
+        tips along the way.
       </>
     ),
   },
