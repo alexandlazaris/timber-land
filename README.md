@@ -3,12 +3,17 @@ A memory dump + training ground for all my wood working learning.
 
 * using https://docusaurus.io/ for static site generation
 * node v14
-* run `yarn install` within `./my-website` followed by `yarn star` to begin the local server
+* run `yarn install` followed by `yarn start` in root dir to begin the local server
 
 
 TODO
 
 * make a quiz for guessing timber based of photos
+* treated vs un-treated timber
+* best uses of countersunk screws
+* when to use glue vs screws
+* types of joints
+* Deployment: try out https://vercel.com/
 
 # Website
 
