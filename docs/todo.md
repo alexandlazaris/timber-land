@@ -6,6 +6,7 @@
 
 ## Medium
 * small - small bookshelf
+* tool card
 
 ## Hard
 * large coffee table
