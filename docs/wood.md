@@ -34,3 +34,4 @@ sidebar_position: 2
 ### Sources 
 - https://www.workshop.bunnings.com.au/t5/How-To/How-to-choose-the-right-timber-for-the-job/ba-p/104237
 - https://www.woodsolutions.com.au/wood-species/softwood/pine-radiata
+- https://www.tipshandyman.com/
